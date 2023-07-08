@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.127.93.139:8081/repository/ccit-repo/</url>
+		    <url>http://65.1.93.124:8081/repository/ccit-releases/</url>
 		</repository>
   	</distributionManagement>
 	
